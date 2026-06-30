@@ -4,7 +4,7 @@
 
 | Domain | Skills/Tools | Projects |
 |---|---|---|
-| Cloud | AWS | - [Static Website Deployment](https://github.com/iamaartipawar/your-repo-name) <br> - [Dynamic Website Deployment](https://github.com/iamaartipawar/your-repo-name) <br> - [RDS Migration](https://github.com/iamaartipawar/your-repo-name) <br> - [Auto Scaling Group (ASG) Setup](https://github.com/iamaartipawar/your-repo-name) |
+| Cloud | AWS | - [Static Website Deployment]([https://github.com/iamaartipawar/your-repo-name](https://github.com/iamaartipawar/Static-Website-Deployment.git)) <br> - [Dynamic Website Deployment](https://github.com/iamaartipawar/your-repo-name) <br> - [RDS Migration](https://github.com/iamaartipawar/your-repo-name) <br> - [Auto Scaling Group (ASG) Setup](https://github.com/iamaartipawar/your-repo-name) |
 
 <!--
 **iamaartipawar/iamaartipawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
