@@ -4,7 +4,7 @@
 
 | Domain | Skills/Tools | Projects |
 |---|---|---|
-| Cloud | AWS | - [Static Website Deployment](https://github.com/iamaartipawar/Static-Website-Deployment) <br> - [Securing VPC](https://github.com/iamaartipawar/your-repo-name) ||
+| Cloud | AWS | - [Static Website Deployment](https://github.com/iamaartipawar/Static-Website-Deployment) <br> - [Dynamic Website Deployment](https://github.com/iamaartipawar/Dynamic-Website-Deployment) ||
 
 <!--
 **iamaartipawar/iamaartipawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
