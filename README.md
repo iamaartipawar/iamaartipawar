@@ -1,5 +1,6 @@
-## Hi 👋, I am Aarti
+<h1 align="center">Hi 👋, I am Aarti</h1>
 
+<p align="center">Aspiring DevOps Engineer | Learning AWS, Terraform & Docker</p>
 
 | Domain | Skills/Tools | Projects |
 |---|---|---|
