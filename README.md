@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋, I am Aarti
+
+| Domain | Skills/Tools | Projects |
+|---|---|---|
+| Cloud | AWS | - [Configure a Static Website With S3](https://github.com/iamaartipawar/your-repo-name) <br> - [Securing VPC](https://github.com/iamaartipawar/your-repo-name) |
+| Orchestration | - Terraform ECS <br> - AWS ECS | - [Provisioning an Amazon ECS Cluster Using Terraform](https://github.com/iamaartipawar/your-repo-name) |
+| Infrastructure as Code | Terraform | - [Deploy a Highly Available Website with Terraform on AWS](https://github.com/iamaartipawar/your-repo-name) |
+| Scripting | - Bash/Shell <br> - Python | - [Shell Scripting Project](https://github.com/iamaartipawar/your-repo-name) |
 
 <!--
 **iamaartipawar/iamaartipawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
