@@ -6,6 +6,10 @@
 |---|---|---|
 | Cloud | AWS | - [Static Website Deployment](https://github.com/iamaartipawar/Static-Website-Deployment) <br> - [Dynamic Website Deployment](https://github.com/iamaartipawar/Dynamic-Website-Deployment) <br> - [AWS-Intelligent-Scalable-Infrastructure-with-Monitoring](https://github.com/iamaartipawar/AWS-Intelligent-Scalable-Infrastructure-with-Monitoring) <br> - [CloudShift-Enterprise-Database-Migration-to-AWS-RDS](https://github.com/iamaartipawar/CloudShift-Enterprise-Database-Migration-to-AWS-RDS) <br> - [AWS-Microservices-Infrastructure-with-Auto-Scaling-Load-Balancing](https://github.com/iamaartipawar/AWS-Microservices-Infrastructure-with-Auto-Scaling-Load-Balancing) ||
 
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,git,github,gitlab,terraform,ansible,bash,python,mysql)](https://skillicons.dev)
+
 <!--
 **iamaartipawar/iamaartipawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
