@@ -5,8 +5,8 @@
 | Domain | Skills/Tools | Projects |
 |---|---|---|
 | Cloud | AWS | - [Static Website Deployment](https://github.com/iamaartipawar/Static-Website-Deployment) <br> - [Dynamic Website Deployment](https://github.com/iamaartipawar/Dynamic-Website-Deployment) <br> - [AWS-Intelligent-Scalable-Infrastructure-with-Monitoring](https://github.com/iamaartipawar/AWS-Intelligent-Scalable-Infrastructure-with-Monitoring) <br> - [CloudShift-Enterprise-Database-Migration-to-AWS-RDS](https://github.com/iamaartipawar/CloudShift-Enterprise-Database-Migration-to-AWS-RDS) <br> - [AWS-Microservices-Infrastructure-with-Auto-Scaling-Load-Balancing](https://github.com/iamaartipawar/AWS-Microservices-Infrastructure-with-Auto-Scaling-Load-Balancing) |
-| DevOps | Docker, AWS, Linux | - [Docker Multi-Tier Application](YOUR_DOCKER_REPOSITORY_LINK) |
-| Cloud / DevOps | AWS, Docker, Python Flask | - [Three-Tier Web Application](YOUR_THREE_TIER_REPOSITORY_LINK) |
+| DevOps | Docker, AWS, Linux | - [DockStack-Containerized-Web-Application-on-AWS](https://github.com/iamaartipawar/DockStack-Containerized-Web-Application-on-AWS-) <br> - [PHPDock-Containerized-PHP-Application-on-AWS](https://github.com/iamaartipawar/PHPDock-Containerized-PHP-Application-on-AWS) |
+
 
 ### Languages and Tools:
 
