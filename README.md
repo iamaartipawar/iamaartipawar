@@ -14,11 +14,13 @@
 
 | Focus Area | Technologies | Hands-on Projects |
 |---|---|---|
-| ☁️ Cloud & Infrastructure | AWS, EC2, VPC, IAM, RDS, S3, CloudWatch | [Static Website Deployment](https://github.com/iamaartipawar/Static-Website-Deployment) <br> [Dynamic Website Deployment](https://github.com/iamaartipawar/Dynamic-Website-Deployment) <br> [AWS Intelligent Scalable Infrastructure with Monitoring](https://github.com/iamaartipawar/AWS-Intelligent-Scalable-Infrastructure-with-Monitoring) <br> [CloudShift – Enterprise Database Migration to AWS RDS](https://github.com/iamaartipawar/CloudShift-Enterprise-Database-Migration-to-AWS-RDS) <br> [AWS Microservices Infrastructure with Auto Scaling & Load Balancing](https://github.com/iamaartipawar/AWS-Microservices-Infrastructure-with-Auto-Scaling-Load-Balancing) |
+| ☁️ Cloud & Infrastructure | AWS, EC2, VPC, IAM, RDS, S3, CloudWatch | [Static Website Deployment](https://github.com/iamaartipawar/Static-Website-Deployment) <br> [Dynamic Website Deployment](https://github.com/iamaartipawar/Dynamic-Website-Deployment) <br> [CloudShift – Enterprise Database Migration to AWS RDS](https://github.com/iamaartipawar/CloudShift-Enterprise-Database-Migration-to-AWS-RDS) <br> [AWS Microservices Infrastructure with Auto Scaling & Load Balancing](https://github.com/iamaartipawar/AWS-Microservices-Infrastructure-with-Auto-Scaling-Load-Balancing) |
+| Monitoring | CloudWatch | [AWS Intelligent Scalable Infrastructure with Monitoring](https://github.com/iamaartipawar/AWS-Intelligent-Scalable-Infrastructure-with-Monitoring)|
 | 🐳 Containerization | Docker, Docker Compose, Nginx | [DockStack – Containerized Web Application on AWS](https://github.com/iamaartipawar/DockStack-Containerized-Web-Application-on-AWS-) <br> [PHPDock – Containerized PHP Application on AWS](https://github.com/iamaartipawar/PHPDock-Containerized-PHP-Application-on-AWS) |
 | ☸️ Kubernetes | Kubernetes, Pods, Deployments, Services | [InstaSphere-Kubernetes-Based-Social-Media-Platform](https://github.com/iamaartipawar/InstaSphere-Kubernetes-Based-Social-Media-Platform) |
-| 🔄 CI/CD Automation | Jenkins, GitHub, AWS EC2 | *Jenkins CI/CD Project – Coming Soon* |
-| 🐧 Linux & DevOps | Linux, Bash, Git, GitHub | *DevOps & Linux Practice Projects* |
+| 🔄 CI/CD Automation | Jenkins, GitHub, AWS EC2 | -|
+| Databases | DynamoDB, RDS | -|
+| 🐧 Linux & DevOps | Linux, Bash, Git, GitHub | - |
 
 ---
 
