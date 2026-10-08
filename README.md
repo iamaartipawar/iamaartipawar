@@ -62,9 +62,15 @@ problem-solving and DevOps skills.
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/iamaartipawar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/aarti-pawar-4823a42a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aartiarvind4444@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
