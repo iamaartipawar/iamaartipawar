@@ -18,7 +18,7 @@
 | Monitoring | CloudWatch | [AWS Intelligent Scalable Infrastructure with Monitoring](https://github.com/iamaartipawar/AWS-Intelligent-Scalable-Infrastructure-with-Monitoring)|
 | Containerization | Docker, Docker Compose, Nginx | [DockStack – Containerized Web Application on AWS](https://github.com/iamaartipawar/DockStack-Containerized-Web-Application-on-AWS-) <br> [PHPDock – Containerized PHP Application on AWS](https://github.com/iamaartipawar/PHPDock-Containerized-PHP-Application-on-AWS) |
 | Kubernetes | Kubernetes, Pods, Deployments, Services | [InstaSphere-Kubernetes-Based-Social-Media-Platform](https://github.com/iamaartipawar/InstaSphere-Kubernetes-Based-Social-Media-Platform) |
-| CI/CD Automation | Jenkins, GitHub, AWS EC2 | -|
+| CI/CD Automation | Jenkins, GitHub,Webhook, AWS EC2 | [Python-Application-Deployment-using-Jenkins-AWS-EC2](https://github.com/iamaartipawar/Python-Application-Deployment-using-Jenkins-AWS-EC2) <br> [Python-Application-CI-CD-Automation-using-Jenkins-GitHub-Webhooks-AWS-EC2](https://github.com/iamaartipawar/Python-Application-CI-CD-Automation-using-Jenkins-GitHub-Webhooks-AWS-EC2) |
 | Databases | DynamoDB, RDS | [Bulk-Loading-Data-into-Amazon-DynamoDB-using-EC2-and-AWS-CLI](https://github.com/iamaartipawar/Bulk-Loading-Data-into-Amazon-DynamoDB-using-EC2-and-AWS-CLI) <br> [CloudShift-Enterprise-Database-Migration-to-AWS-RDS](https://github.com/iamaartipawar/CloudShift-Enterprise-Database-Migration-to-AWS-RDS)|
 | Scripting | Bash/Shell | [Shell-Scripting](https://github.com/iamaartipawar/Shell-Scripting)|
 | 🐧 Linux & DevOps | Linux, Bash, Git, GitHub | - |
