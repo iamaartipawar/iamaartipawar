@@ -20,6 +20,7 @@
 | Kubernetes | Kubernetes, Pods, Deployments, Services | [InstaSphere-Kubernetes-Based-Social-Media-Platform](https://github.com/iamaartipawar/InstaSphere-Kubernetes-Based-Social-Media-Platform) |
 | CI/CD Automation | Jenkins, GitHub,Webhook, AWS EC2 | [Python-Application-Deployment-using-Jenkins-AWS-EC2](https://github.com/iamaartipawar/Python-Application-Deployment-using-Jenkins-AWS-EC2) <br> [Python-Application-CI-CD-Automation-using-Jenkins-GitHub-Webhooks-AWS-EC2](https://github.com/iamaartipawar/Python-Application-CI-CD-Automation-using-Jenkins-GitHub-Webhooks-AWS-EC2) |
 | Databases | DynamoDB, RDS | [Bulk-Loading-Data-into-Amazon-DynamoDB-using-EC2-and-AWS-CLI](https://github.com/iamaartipawar/Bulk-Loading-Data-into-Amazon-DynamoDB-using-EC2-and-AWS-CLI) <br> [CloudShift-Enterprise-Database-Migration-to-AWS-RDS](https://github.com/iamaartipawar/CloudShift-Enterprise-Database-Migration-to-AWS-RDS)|
+| Git & GitLab Version Control | Git, GitHub, GitLab, Branching, Merging, Commit, Push/Pull, Clone, GitLab CI/CD | [Git-GitLab-Version-Control-Workflow](https://github.com/iamaartipawar/Git-GitLab-Version-Control-Workflow)|
 | Scripting | Bash/Shell | [Shell-Scripting](https://github.com/iamaartipawar/Shell-Scripting)|
 
 ---
