@@ -21,7 +21,6 @@
 | CI/CD Automation | Jenkins, GitHub,Webhook, AWS EC2 | [Python-Application-Deployment-using-Jenkins-AWS-EC2](https://github.com/iamaartipawar/Python-Application-Deployment-using-Jenkins-AWS-EC2) <br> [Python-Application-CI-CD-Automation-using-Jenkins-GitHub-Webhooks-AWS-EC2](https://github.com/iamaartipawar/Python-Application-CI-CD-Automation-using-Jenkins-GitHub-Webhooks-AWS-EC2) |
 | Databases | DynamoDB, RDS | [Bulk-Loading-Data-into-Amazon-DynamoDB-using-EC2-and-AWS-CLI](https://github.com/iamaartipawar/Bulk-Loading-Data-into-Amazon-DynamoDB-using-EC2-and-AWS-CLI) <br> [CloudShift-Enterprise-Database-Migration-to-AWS-RDS](https://github.com/iamaartipawar/CloudShift-Enterprise-Database-Migration-to-AWS-RDS)|
 | Scripting | Bash/Shell | [Shell-Scripting](https://github.com/iamaartipawar/Shell-Scripting)|
-| 🐧 Linux & DevOps | Linux, Bash, Git, GitHub | - |
 
 ---
 
